@@ -90,11 +90,13 @@ iPad용 게임 앱
 **피키피커**
 패션 브랜드&매장 큐레이팅 앱 
 * 소속 : Businessinsight
+* 역할 : iOS 앱 개발
 * 기간 : 2015/11 ~ 2016/02 
 * 사용 기술 : iOS, Objective-C, MapKit, Qrcode recognition
 
 **빗썸**
 비트코인 거래소 앱
 * 소속 : 빗썸
+* 역할 : iOS 앱 개발
 * 기간 : 2017/11 ~ 2017/12
 * 사용 기술 : iOS, Objective-C, Javascript Bridge, Qrcode recognition, Chart
