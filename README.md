@@ -6,10 +6,7 @@
 
 ## 보유기술
 * 주요기술
-  * Objective-C, Swift
-
-* 레거시
-  * RxSwift
+  * Objective-C, Swift, RxSwift
 
 ## 경력
 
