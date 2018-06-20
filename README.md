@@ -110,7 +110,7 @@ iPad용 게임 앱
 * 기간 : 2017/11 ~ 2017/12
 * 사용 기술 : iOS, Objective-C, Javascript Bridge, Qrcode recognition, Chart
 
-**[셀피월드 인 골프](https://itunes.apple.com/us/app/셀피월드-인-골프/id1387405811?l=ko&ls=1&mt=8)""
+**[셀피월드 인 골프](https://itunes.apple.com/us/app/셀피월드-인-골프/id1387405811?l=ko&ls=1&mt=8)**
 관광지 연동 셀카 앱
 * 역할 : iOS 앱 개발
 * 기간 : 2018/04 ~ 2018/05
