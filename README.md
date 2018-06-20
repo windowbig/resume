@@ -39,7 +39,7 @@
 * 사용 기술 : Objective-C, Swift, Notification Extension
 
 <img src="https://github.com/windowbig/resume/blob/master/images/celebspick/Screen%20Shot%202018-03-29%20at%20%EC%98%A4%ED%9B%84%201.55.26.png" width="200" height="400" />
-<img src="(https://github.com/windowbig/resume/blob/master/images/celebspick/Screen%20Shot%202018-03-29%20at%20%EC%98%A4%ED%9B%84%201.55.42.png" width="200" height="400" />
+<img src="https://github.com/windowbig/resume/blob/master/images/celebspick/Screen%20Shot%202018-03-29%20at%20%EC%98%A4%ED%9B%84%201.55.42.png" width="200" height="400" />
 <img src="https://github.com/windowbig/resume/blob/master/images/celebspick/Screen%20Shot%202018-03-29%20at%20%EC%98%A4%ED%9B%84%201.55.59.png" width="200" height="400" />
 <img src="https://github.com/windowbig/resume/blob/master/images/celebspick/Screen%20Shot%202018-03-29%20at%20%EC%98%A4%ED%9B%84%201.56.21.png" width="200" height="400" />
 
