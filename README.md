@@ -37,10 +37,10 @@
 * 역할 : iOS 앱 리뉴얼 및 유지보수
 * 기간 : 2015/09 ~ 2016/07
 * 사용 기술 : Objective-C, Swift, Notification Extension
-![](https://github.com/windowbig/resume/blob/master/images/celebspick/Screen%20Shot%202018-03-29%20at%20%EC%98%A4%ED%9B%84%201.55.26.png){: width="25%" height="30%"}
-![](https://github.com/windowbig/resume/blob/master/images/celebspick/Screen%20Shot%202018-03-29%20at%20%EC%98%A4%ED%9B%84%201.55.42.png){: width="25%" height="30%"}
-![](https://github.com/windowbig/resume/blob/master/images/celebspick/Screen%20Shot%202018-03-29%20at%20%EC%98%A4%ED%9B%84%201.55.59.png){: width="25%" height="30%"}
-![](https://github.com/windowbig/resume/blob/master/images/celebspick/Screen%20Shot%202018-03-29%20at%20%EC%98%A4%ED%9B%84%201.56.21.png){: width="25%" height="30%"}
+![](https://steemitimages.com/450x0//https://github.com/windowbig/resume/blob/master/images/celebspick/Screen%20Shot%202018-03-29%20at%20%EC%98%A4%ED%9B%84%201.55.26.png)
+![](https://steemitimages.com/450x0//https://github.com/windowbig/resume/blob/master/images/celebspick/Screen%20Shot%202018-03-29%20at%20%EC%98%A4%ED%9B%84%201.55.42.png)
+![](https://steemitimages.com/450x0//https://github.com/windowbig/resume/blob/master/images/celebspick/Screen%20Shot%202018-03-29%20at%20%EC%98%A4%ED%9B%84%201.55.59.png)
+![](https://steemitimages.com/450x0//https://github.com/windowbig/resume/blob/master/images/celebspick/Screen%20Shot%202018-03-29%20at%20%EC%98%A4%ED%9B%84%201.56.21.png)
 
 
 **[프로야구 미디어센터 LIVE](https://itunes.apple.com/us/app/프로야구-미디어센터-live/id515155553?l=ko&ls=1&mt=8)**
