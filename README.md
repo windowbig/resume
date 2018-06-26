@@ -23,6 +23,7 @@
 - Alamofire
 - SDWebImage, Kingfisher
 - WKWebView, Javascript Bridge
+- In-App Purchase(Consumable, Auto-Renewable Subscriptions)
 - FMDB
 - Firebase
 - AppsFlyer
