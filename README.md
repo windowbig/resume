@@ -130,7 +130,7 @@ iPad용 게임 앱
 관광지 연동 셀카 앱
 * 역할 : iOS 앱 개발
 * 기간 : 2018/04 ~ 2018/05
-* 사용 기술 : Swift, Qrcode Recognition, Google Map API, Google Analytics
+* 사용 기술 : Swift, Qrcode Recognition, Google Map API, Google Analytics, CGFilter, Image Crop
 
 
 
