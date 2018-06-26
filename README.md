@@ -22,16 +22,22 @@
 - Autolayout(Storyboard & Code Base)
 - Alamofire
 - SDWebImage, Kingfisher
+- Chart
+- Magic Pie
+- Hero
+- FSCalendar
+- MXParallaxHeader
 - WKWebView, Javascript Bridge
 - In-App Purchase(Consumable, Auto-Renewable Subscriptions)
 - FMDB
 - Firebase
 - AppsFlyer
 - Google Map
-- Facebook
+- Facebook SDK(login, Ad)
 - naver SDK(login)
-- kakao SDK(Navi, login, search api)
-- Ad Mediation(AdMob, IgaworksCore, InMobiSDK, AdPopcornOfferwall)
+- kakao SDK(login)
+- Ad(Banner, Native, Interstitial)
+- Ad Mediation(AdMob, Cauly, IgaworksCore, InMobiSDK, AdPopcornOfferwall)
 
 
 
@@ -40,7 +46,6 @@
 ### 티온네트워크
 
 **[스코어센터](https://itunes.apple.com/us/app/스코어센터-live/id819827050?l=ko&ls=1&mt=8)**
-
 * 역할 : iOS 앱 리뉴얼 및 운영
 * 기간 : 2016/01 ~ now
 * 사용 기술 : Objective-C, Swift, IAP, FCM, Admob Mediation
@@ -56,7 +61,7 @@
 **[프로야구 미디어센터 LIVE](https://itunes.apple.com/us/app/프로야구-미디어센터-live/id515155553?l=ko&ls=1&mt=8)**
 * 역할 : iOS 앱 유지보수
 * 기간 : 2016/02 ~ now
-* 사용 기술 : Objective-C, MRC
+* 사용 기술 : Objective-C, MRC, Admob Mediation
 
 ### 웹스톰
 
@@ -86,14 +91,12 @@
 
 ### 썸웨어
 **다른그림찾기**
-
 iPad용 게임 앱
 * 역할 : iOS 앱 개발 
 * 기간 : 2010/10 ~ 2011/03
 * 사용 기술 : Objective-C 
 
 **남만제국**
-
 아이폰용 2D 벨트스크롤 액션 게임 앱
 * 역할 : iOS 앱 개발
 * 기간 : 2011/07 ~ 2012/01
@@ -102,28 +105,24 @@ iPad용 게임 앱
 
 ### 외주 프로젝트
 **피키피커**
-
 패션 브랜드&매장 큐레이팅 앱 
 * 역할 : iOS 앱 개발
 * 기간 : 2015/11 ~ 2016/02 
 * 사용 기술 : Objective-C, MapKit, Qrcode Recognition
 
 **[무비프리](https://itunes.apple.com/us/app/moviepre-무비프리/id892283001?l=ko&ls=1&mt=8)**
-
 영화 시사회 추첨 앱
 * 역할 : iOS 앱 개발
 * 기간 : 2017/09 ~ 2017/12
 * 사용 기술 : Objective-C, Javascript Bridge, OfferWall Ad, Media Player
 
 **[빗썸](https://itunes.apple.com/kr/app/빗썸/id1299421592?mt=8)**
-
 비트코인 거래소 앱
 * 역할 : iOS 앱 개발
 * 기간 : 2017/11 ~ 2017/12
 * 사용 기술 : iOS, Objective-C, Javascript Bridge, Qrcode recognition, Chart
 
 **[셀피월드 인 골프](https://itunes.apple.com/us/app/셀피월드-인-골프/id1387405811?l=ko&ls=1&mt=8)**
-
 관광지 연동 셀카 앱
 * 역할 : iOS 앱 개발
 * 기간 : 2018/04 ~ 2018/05
