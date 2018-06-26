@@ -41,12 +41,12 @@
 
 **[스코어센터](https://itunes.apple.com/us/app/스코어센터-live/id819827050?l=ko&ls=1&mt=8)**
 
-* 역할 : iOS 앱 리뉴얼 및 유지보수
+* 역할 : iOS 앱 리뉴얼 및 운영
 * 기간 : 2016/01 ~ now
 * 사용 기술 : Objective-C, Swift, IAP, FCM, Admob Mediation
 
 **[셀럽스픽](https://itunes.apple.com/us/app/celebs-pick-셀럽스픽/id1016352526?l=ko&ls=1&mt=8)**
-* 역할 : iOS 앱 리뉴얼 및 유지보수
+* 역할 : iOS 앱 리뉴얼 및 운영
 * 기간 : 2015/09 ~ 2016/07
 * 사용 기술 : Objective-C, Swift, Notification Extension
 
@@ -61,7 +61,7 @@
 ### 웹스톰
 
 **[노리투앱](https://itunes.apple.com/kr/app/%EB%85%B8%EB%A6%AC%ED%88%AC%EC%95%B1-noritoapp/id671363096?mt=8)**
-* 역할 : iOS 앱 리뉴얼 및 유지보수
+* 역할 : iOS 앱 리뉴얼
 * 기간 : 2014/12 ~ 2015/09
 * 사용 기술 : Objective-C, PG(inicis) Integration, QRcode Recognition, Javascript Bridge
 
