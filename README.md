@@ -1,13 +1,6 @@
 # resume
 경력기술서
 
-## 학력
-* 2003 - 2013 건국대학교
-
-## 보유기술
-* 주요기술
-  * Objective-C, Swift, RxSwift
-
 ## 경력
 
 [티온네트워크](http://www.tionnet.com/)
@@ -21,6 +14,24 @@
 
 썸웨어
 - 2010/10/10 ~ 2012/01/30
+
+
+## 보유기술 및 사용가능 라이브러리
+
+- Swift & Objective-C
+- Autolayout(Storyboard & Code Base)
+- Alamofire
+- SDWebImage, Kingfisher
+- WKWebView, Javascript Bridge
+- FMDB
+- Firebase
+- AppsFlyer
+- Google Map
+- Facebook
+- naver SDK(login)
+- kakao SDK(Navi, login, search api)
+- Ad Mediation(AdMob, IgaworksCore, InMobiSDK, AdPopcornOfferwall)
+
 
 
 ## 진행 프로젝트
@@ -116,3 +127,6 @@ iPad용 게임 앱
 * 역할 : iOS 앱 개발
 * 기간 : 2018/04 ~ 2018/05
 * 사용 기술 : Swift, Qrcode Recognition, Google Map API, Google Analytics
+
+
+
