@@ -30,10 +30,6 @@
 - Firebase
 - AppsFlyer
 - Google Map
-- Facebook SDK(login, Ad)
-- naver SDK(login)
-- kakao SDK(login)
-- Mobile Ad(Banner, Native, Interstitial, Reward Video, Offerwall)
 - Mobile Ad Mediation(AdMob, Cauly, IgaworksCore, InMobiSDK, AdPopcornOfferwall)
 
 
