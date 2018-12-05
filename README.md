@@ -19,6 +19,7 @@
 ## 보유기술 및 사용가능 라이브러리
 
 - Swift & Objective-C
+- RxSwift
 - Autolayout(Storyboard & Code Base)
 - Alamofire
 - SDWebImage, Kingfisher
@@ -40,8 +41,8 @@
 
 **[스코어센터](https://itunes.apple.com/us/app/스코어센터-live/id819827050?l=ko&ls=1&mt=8)**
 * 역할 : iOS 앱 리뉴얼 및 운영
-* 기간 : 2016/01 ~ now
-* 사용 기술 : Objective-C, Swift, IAP, FCM, Admob Mediation
+* 기간 : 2016/01 ~ 2018/11
+* 사용 기술 : Objective-C, Swift, IAP, FCM, Admob Mediation, RxSwift
 
 **[셀럽스픽](https://itunes.apple.com/us/app/celebs-pick-셀럽스픽/id1016352526?l=ko&ls=1&mt=8)**
 * 역할 : iOS 앱 리뉴얼 및 운영
@@ -53,7 +54,7 @@
 
 **[프로야구 미디어센터 LIVE](https://itunes.apple.com/us/app/프로야구-미디어센터-live/id515155553?l=ko&ls=1&mt=8)**
 * 역할 : iOS 앱 유지보수
-* 기간 : 2016/02 ~ now
+* 기간 : 2016/02 ~ 2018/11
 * 사용 기술 : Objective-C, MRC, Admob Mediation
 
 ### 웹스톰
