@@ -4,7 +4,7 @@
 ## 경력
 
 [티온네트워크](http://www.tionnet.com/)
-- 2015/09/15 ~ now
+- 2015/09/15 ~ 2018/11/23
 
 [웹스톰](http://nori2app.com/help/introduce.php)
 - 2014/11/01 ~ 2015/09/03
