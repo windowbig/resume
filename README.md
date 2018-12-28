@@ -3,6 +3,9 @@
 
 ## 경력
 
+[티몬](http://www.ticketmonster.co.kr/home)
+- 2018/12/17 ~ now
+
 [티온네트워크](http://www.tionnet.com/)
 - 2015/09/15 ~ 2018/11/23
 
