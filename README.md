@@ -24,21 +24,29 @@
 - Swift & Objective-C
 - RxSwift
 - Autolayout(Storyboard & Code Base)
-- Alamofire
-- SDWebImage, Kingfisher
 - Chart
 - Hero
 - WKWebView, Javascript Bridge
 - In-App Purchase(Consumable, Auto-Renewable Subscriptions)
 - FMDB
-- Firebase
 - AppsFlyer
 - Google Map
 - Mobile Ad Mediation(AdMob, Cauly, IgaworksCore, InMobiSDK, AdPopcornOfferwall)
-
+- RealmSwift
+- SocketIO
 
 
 ## 진행 프로젝트
+
+### 티몬
+**티몬상담톡 개발**
+* 역할 : iOS 티몬상담톡 Swift 전환, 자동답변시스템 개발
+* 기간 : 2019/03 ~ 2019/08
+* 사용 기술 : Swift, Socket, Realm
+
+**포유**
+* 역할 : 포유 탭 딥러닝 키워드 검색 개발
+* 기간 
 
 ### 티온네트워크
 
