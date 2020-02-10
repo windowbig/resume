@@ -26,15 +26,11 @@
 - Swift & Objective-C
 - RxSwift
 - Autolayout(Storyboard & Code Base)
-- Chart
-- Hero
 - WKWebView, Javascript Bridge
 - In-App Purchase(Consumable, Auto-Renewable Subscriptions)
-- FMDB
-- AppsFlyer
-- Google Map
 - Mobile Ad Mediation(AdMob, Cauly, IgaworksCore, InMobiSDK, AdPopcornOfferwall)
 - RealmSwift
+- FMDB
 - SocketIO
 - Fastlane
 - Jenkins
