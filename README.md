@@ -2,9 +2,11 @@
 경력기술서
 
 ## 경력
+[카카오엔터프라이즈](https://www.kakaoenterprise.com/)
+- 2020/02/10 ~
 
 [티몬](http://www.ticketmonster.co.kr/home)
-- 2018/12/17 ~ now
+- 2018/12/17 ~ 2020/02/07
 
 [티온네트워크](http://www.tionnet.com/)
 - 2015/09/15 ~ 2018/11/23
