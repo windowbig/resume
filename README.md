@@ -36,6 +36,8 @@
 - Mobile Ad Mediation(AdMob, Cauly, IgaworksCore, InMobiSDK, AdPopcornOfferwall)
 - RealmSwift
 - SocketIO
+- Fastlane
+- Jenkins
 
 
 ## 진행 프로젝트
